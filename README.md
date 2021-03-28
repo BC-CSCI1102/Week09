@@ -10,7 +10,7 @@
 
 #### Topics:
 
-1. Sets & Relations; Equivalence Relations & Total Orders; Partial Maps
+1. Sets & Relations; Partial Maps; Equivalence Relations & Total Orders
 2. Working with Equivalence and Ordering in Java
 
 ---
